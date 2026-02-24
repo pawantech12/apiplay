@@ -1,0 +1,20 @@
+{
+  "name": "apiplay-server",
+  "version": "1.0.0",
+  "description": "APIPlay is a browser-based API playground that lets developers test, explore, and understand APIs without writing code or setting up tools. With pre-configured templates, editable parameters, and real-time responses, APIPlay makes API testing fast, simple, and beginner-friendly — all in one powerful web interface.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawan Kumavat",
+  "contributors": [
+    "Shruti Sharma"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "expressjs": "^1.0.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.23.0"
+  }
+}
